@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+#success-modal {
+	border: 2px solid black;
+	border-radius: 5px;
+	background: white;
+	width: 502px;
+	margin: auto;
+	position: relative;
+	top: 55px;
+	display: none;
+}
